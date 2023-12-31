@@ -1,0 +1,1 @@
+{"version":3,"sources":["globals/typography.scss","globals/typography.css"],"names":[],"mappings":"AAAA,KACI,8BCCJ","file":"globals/typography.css","sourcesContent":["body{\r\n    font-family: 'Figtree', sans-serif;\r\n    \r\n}","body {\n  font-family: \"Figtree\", sans-serif;\n}"]}

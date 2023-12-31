@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/layout.scss","components/layout.css"],"names":[],"mappings":"AAEA,WACI,iBCDJ","file":"components/layout.css","sourcesContent":["@use '../utils' as *;\r\n\r\n.container{\r\n    padding:rem(25);\r\n}",".container {\n  padding: 1.5625rem;\n}"]}
