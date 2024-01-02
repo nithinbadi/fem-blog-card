@@ -1,5 +1,49 @@
 @use '../utils' as *;
 
 .container{
-    padding:rem(25);
+    display:flex;
+    flex-direction:column;
+    border-radius:rem(10);
+    padding:rem(15);
+    background-color:var(--white);
+    font-size:rem(14);
+    box-shadow:rem(5) rem(5) black;
+    @include breakpoint(medium){
+        max-width:rem(280);
+    }
+    &__img{
+        width:100%;
+        border-radius:rem(10);
+        margin-bottom:rem(10);
+    }
+    &__learning{
+        width:rem(70);
+        font-weight:800;
+        border-radius:rem(2);
+        background-color:var(--yellow);
+        margin:rem(5) 0;
+        padding:rem(5);
+    }
+    &__label{
+        color:var(--gray);
+        font-size:rem(14);
+    }
+    &__para{
+        color:var(--gray);
+        margin-top:0;
+    }
+    & span{
+        display:flex;
+        
+    }
+    & span img{
+        height:rem(30);
+        width:rem(30);
+        align-self:center;
+    }
+    & span p{
+        text-indent:rem(12);
+        font-weight:800;
+    }
+
 }

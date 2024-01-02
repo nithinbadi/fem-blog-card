@@ -1,2 +1,2 @@
-.container{padding:1.5625rem}
+.container{background-color:var(--white);border-radius:.625rem;box-shadow:.3125rem .3125rem #000;display:flex;flex-direction:column;font-size:.875rem;padding:.9375rem}@media (min-width:40em){.container{max-width:17.5rem}}.container__img{border-radius:.625rem;margin-bottom:.625rem;width:100%}.container__learning{background-color:var(--yellow);border-radius:.125rem;font-weight:800;margin:.3125rem 0;padding:.3125rem;width:4.375rem}.container__label{color:var(--gray);font-size:.875rem}.container__para{color:var(--gray);margin-top:0}.container span{display:flex}.container span img{align-self:center;height:1.875rem;width:1.875rem}.container span p{font-weight:800;text-indent:.75rem}
 /*# sourceMappingURL=layout.css.map */
