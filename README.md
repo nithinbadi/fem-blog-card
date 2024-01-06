@@ -1,6 +1,11 @@
 # Frontend Mentor - Blog preview card
 
+live version -- <a href="https://velvety-mandazi-afe316.netlify.app/">click here</a>
+
+
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
+
+
 
 ## Welcome! 👋
 
